@@ -1,3 +1,5 @@
+#Test accuracy 63%
+
 !pip install tensorflow
 !pip install tqdm
 
